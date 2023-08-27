@@ -1,0 +1,108 @@
+body{
+    background-color: azure;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+h1{
+    color: darkslateblue;
+}
+
+body{
+    font-size: x-large;
+}
+
+h2{
+    color: slateblue;
+}
+
+footer{
+    font-size: large;
+}
+
+button{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1em;
+    font-weight: bold;
+    padding: 20px 40px;
+    border-radius: 25px;
+    border-color: black;
+    border: 2px solid;
+    box-shadow: 4px 4px 20px rgba(0,0,0,0.6);
+    color: white;
+    background-color: purple;
+    margin: 20px 20px;
+}
+
+header{
+    font-weight: bold;
+    font-size: 3em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkslateblue;
+    margin: 20px 20px;
+}
+
+container{
+    max-height: 1400px;
+}
+
+header{
+    
+}
+
+
+nav{
+    background-color: rgb(100, 100, 100);
+    margin: 20px 20px;
+}
+
+head{
+    background-color: rgb(150, 150, 150);
+}
+
+a{
+    text-decoration: none;
+    font-size: 1em;+
+    font-weight: bold;
+    padding: 20px 40px;
+    color: white;
+    border-radius: 20px;
+}
+
+body section{
+    background-color: rgb(200, 200, 200);
+    border-radius: 20px;
+}
+
+.container-comentarios{
+    padding: 20px 40px;
+    background-color: rgb(190, 190, 190);
+}
+
+.container-comentarios textarea{
+
+    padding: 20px 40px;
+    font-size: 2em;
+    width: 1750px;
+}
+
+.container-comentarios title{
+    color: white;
+    background-color: black;
+}
+
+h3{
+    margin: 20px 20px;
+    padding: 20px 20px;
+}
+
+p{
+    padding: 20px 20px;
+    font-weight: bold;
+}
